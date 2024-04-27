@@ -1,8 +1,83 @@
-// 20240427185825
-// https://raw.githubusercontent.com/faridsolgi/faq/master/faq.md
 
 [
   {
+
+    "section": {
+      "en": "Swap",
+      "fa": "Swap"
+    },
+    "items": [
+      {
+        "en": {
+          "title": "What is Dex2swap?",
+          "markdown": "faq/en/dex2swap/what-is-dex2swap.md"
+        },
+        "fa": {
+          "title": "Dex2swap چیست؟",
+          "markdown": "faq/fa/dex2swap/what-is-dex2swap.md"
+        }
+      },
+      {
+        "en": {
+          "title": "What is the difference between a swap and a cross-chain swap?",
+          "markdown": "faq/en/dex2swap/difference-between-swap-and-cross-chain-swap.md"
+        },
+        "fa": {
+          "title": "تفاوت بین مبادله و مبادله متقابل زنجیره‌ای چیست؟",
+          "markdown": "faq/fa/dex2swap/difference-between-swap-and-cross-chain-swap.md"
+        }
+      },
+      {
+        "en": {
+          "title": "Why do swaps sometimes not execute?",
+          "markdown": "faq/en/dex2swap/why-swaps-not-execute.md"
+        },
+        "fa": {
+          "title": "چرا گاهی اوقات سواپ‌ها انجام نمی‌شوند؟",
+          "markdown": "faq/fa/dex2swap/why-swaps-not-execute.md"
+        }
+      },
+      {
+        "en": {
+          "title": "If we've paid the network fee but the transaction was not successful, do we need to pay the network fee again?",
+          "markdown": "faq/en/dex2swap/do-we-pay-the-network-fee-again.md"
+        },
+        "fa": {
+          "title": "اگر هزینه شبکه پرداخت کرده‌ایم ولی معامله موفقیت آمیز نبود، آیا باید دوباره کارمزد شبکه پرداخت کنیم؟",
+          "markdown": "faq/fa/dex2swap/do-we-pay-the-network-fee-again.md"
+        }
+      },
+      {
+        "en": {
+          "title": "What is slippage?",
+          "markdown": "faq/en/dex2swap/what-is-slippage.md"
+        },
+        "fa": {
+          "title": "لغزش یا به اصطلاح slippage چیست؟",
+          "markdown": "faq/fa/dex2swap/what-is-slippage.md"
+        }
+      },
+      {
+        "en": {
+          "title": "How can one prevent slippage?",
+          "markdown": "faq/en/dex2swap/how-to-prevent-slippage.md"
+        },
+        "fa": {
+          "title": "چگونه می توان از لغزش جلوگیری کرد؟",
+          "markdown": "faq/fa/dex2swap/how-to-prevent-slippage.md"
+        }
+      },
+      {
+        "en": {
+          "title": "Why do some token or asset exchanges require higher slippage settings?",
+          "markdown": "faq/en/dex2swap/why-higher-slippage-settings-required.md"
+        },
+        "fa": {
+          "title": "چرا مبادله بعضی توکن یا دارایی‌ها نیاز به تنظیم لغزش بالاتر دارند؟",
+          "markdown": "faq/fa/dex2swap/why-higher-slippage-settings-required.md"
+        }
+      }
+    ]},{
     "section": {
       "en": "About",
       "ru": "О Нас",
