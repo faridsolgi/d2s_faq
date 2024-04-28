@@ -77,7 +77,116 @@
           "markdown": "faq/fa/swap/why-higher-slippage-settings-required.md"
         }
       }
-    ]},{
+    ]},
+    {
+      "section": {
+        "en": "Stake",
+        "fa": "Stake"
+      },
+      "items": [
+        {
+          "en": {
+            "title": "What is dex2swap staking?",
+            "markdown": "faq/en/stake/what-is-dex2swap-staking.md"
+          },
+          "fa": {
+            "title": "dex2swap استیک چی هست؟",
+            "markdown": "faq/fa/stake/what-is-dex2swap-staking.md"
+          }
+        },
+        {
+          "en": {
+            "title": "What protocols do we support?",
+            "markdown": "faq/en/stake/what-protocols-do-we-support.md"
+          },
+          "fa": {
+            "title": "چه پروتکل های پشتیبانی می کنیم؟",
+            "markdown": "faq/fa/stake/what-protocols-do-we-support.md"
+          }
+        },
+        {
+          "en": {
+            "title": "What types of protocols are there?",
+            "markdown": "faq/en/stake/what-types-of-protocols-are-there.md"
+          },
+          "fa": {
+            "title": "انواع پروتکل چیست؟",
+            "markdown": "faq/fa/stake/what-types-of-protocols-are-there.md"
+          }
+        },
+        {
+          "en": {
+            "title": "What are the benefits of using dex2swap staking?",
+            "markdown": "faq/en/stake/what-are-the-benefits-of-using-dex2swap-staking.md"
+          },
+          "fa": {
+            "title": "مزایایی استفاده از استیک dex2swap چیست؟",
+            "markdown": "faq/fa/stake/what-are-the-benefits-of-using-dex2swap-staking.md"
+          }
+        },
+        {
+          "en": {
+            "title": "How secure is dex2swap?",
+            "markdown": "faq/en/stake/how-secure-is-dex2swap.md"
+          },
+          "fa": {
+            "title": "امنیت dex2swap چقدر است؟",
+            "markdown": "faq/fa/stake/how-secure-is-dex2swap.md"
+          }
+        },
+        {
+          "en": {
+            "title": "What fees do we pay for using dex2swap staking?",
+            "markdown": "faq/en/stake/what-fees-do-we-pay-for-using-dex2swap-staking.md"
+          },
+          "fa": {
+            "title": "چه کارمزدی برای استفاده از dex2swap استیک پرداخت کنیم؟",
+            "markdown": "faq/fa/stake/what-fees-do-we-pay-for-using-dex2swap-staking.md"
+          }
+        },
+        {
+          "en": {
+            "title": "How can I manage my investment portfolio?",
+            "markdown": "faq/en/stake/how-can-i-manage-my-investment-portfolio.md"
+          },
+          "fa": {
+            "title": "چگونه می توانم سبد سرمایه‌گذاری خود را مدیریت کنم؟",
+            "markdown": "faq/fa/stake/how-can-i-manage-my-investment-portfolio.md"
+          }
+        },
+        {
+          "en": {
+            "title": "What are the risks of using dex2swap?",
+            "markdown": "faq/en/stake/what-are-the-risks-of-using-dex2swap.md"
+          },
+          "fa": {
+            "title": "ریسک استفاده از dex2swap چگونه است؟",
+            "markdown": "faq/fa/stake/what-are-the-risks-of-using-dex2swap.md"
+          }
+        },
+        {
+          "en": {
+            "title": "What are the potential risks of DeFi?",
+            "markdown": "faq/en/stake/what-are-the-potential-risks-of-defi.md"
+          },
+          "fa": {
+            "title": "خطرات احتمالی DeFi چیست؟",
+            "markdown": "faq/fa/stake/what-are-the-potential-risks-of-defi.md"
+          }
+        },
+        {
+          "en": {
+            "title": "Dex2swap's revenue-generating services and plans",
+            "markdown": "faq/en/stake/dex2swaps-revenue-generating-services-and-plans.md"
+          },
+          "fa": {
+            "title": "خدمات و پلن های درآمدزایی Dex2swap",
+            "markdown": "faq/fa/stake/dex2swaps-revenue-generating-services-and-plans.md"
+          }
+        }
+      ]
+    }
+    ,{
     "section": {
       "en": "About",
       "ru": "О Нас",
