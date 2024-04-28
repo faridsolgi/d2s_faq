@@ -1,0 +1,2 @@
+# What is dex2swap staking?
+It is an all-in-one platform that helps you make the most of decentralized finance without sanctions and filtering limitations. Use this hub as a one-stop solution for managing investments across various DeFi protocols. You can easily access liquidity pools on platforms like Binance Smart Chain, Polygon, Ethereum, Arbitrum, and more, without any access issues or restrictions.
